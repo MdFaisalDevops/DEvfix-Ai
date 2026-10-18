@@ -5,6 +5,8 @@
 ### **AI-Powered DevOps & SRE Troubleshooting Assistant**
 #### *Diagnose Infrastructure Errors with Open-Weight AI (Ollama) — 100% Private, Air-Gapped Ready & $0 Cloud Token Fees*
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-d--evfix--ai--12ck--nu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://d-evfix-ai-12ck-nu.vercel.app/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB.svg?logo=python&logoColor=white)](https://python.org)
@@ -12,6 +14,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Ollama](https://img.shields.io/badge/Ollama-Open--Weight-orange.svg?logo=ollama&logoColor=white)](https://ollama.ai)
 [![Docker Compose](https://img.shields.io/badge/Docker-Compose-2496ED.svg?logo=docker&logoColor=white)](https://docker.com)
+
+🚀 **[Try the Live Web App on Vercel](https://d-evfix-ai-12ck-nu.vercel.app/)**
 
 [Explore Features](#-key-features) • [Quickstart](#-quickstart) • [Architecture](#-architecture) • [Supported Platforms](#-supported-platforms--samples) • [Deployment](#-deployment) • [Contributing](#-contributing)
 
